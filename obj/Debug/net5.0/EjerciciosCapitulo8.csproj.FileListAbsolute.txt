@@ -1,0 +1,16 @@
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.exe
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.deps.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.runtimeconfig.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.runtimeconfig.dev.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\ref\EjerciciosCapitulo8.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\bin\Debug\net5.0\EjerciciosCapitulo8.pdb
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.csprojAssemblyReference.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\ref\EjerciciosCapitulo8.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.pdb
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\TareaCapitulo8\EjerciciosCapitulo8\obj\Debug\net5.0\EjerciciosCapitulo8.genruntimeconfig.cache
